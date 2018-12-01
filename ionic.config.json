@@ -1,0 +1,8 @@
+{
+  "name": "fnlslsprjct",
+  "app_id": "95ba976d",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
